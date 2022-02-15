@@ -1,5 +1,6 @@
 gunicorn
 altair
+vega_datasets
 dash==1.18.1
 dash_bootstrap_components
 plotly==4.14.3
