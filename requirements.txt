@@ -1,6 +1,6 @@
 gunicorn
 altair
 vega_datasets
-dash==2.1.0
+dash
 dash_bootstrap_components
-plotly==4.14.3
+plotly
